@@ -19,6 +19,8 @@
 * **Launcher:** [bemenu](https://github.com/Cloudef/bemenu)
 ---
 * **Browsers:** [Firefox](https://wiki.archlinux.org/title/Firefox), [ungoogled-chromium (prebuilt)](https://github.com/ungoogled-software/ungoogled-chromium-archlinux#binary-downloads)
+	* **Dodatki:** [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/), [NoScript](https://noscript.net/getit), [ClearURLs](https://gitlab.com/KevinRoebert/ClearUrls), [chromium-web-store](https://github.com/NeverDecaf/chromium-web-store)
+	* **Motywy:** [Firefox](https://addons.mozilla.org/en-US/firefox/addon/vampyric-dark/), [chromium](https://chrome.google.com/webstore/detail/dracula-chrome-theme-dark/gfapcejdoghpoidkfodoiiffaaibpaem)
 *  **Mail Client:** [Thunderbird](https://wiki.archlinux.org/title/Thunderbird)
 	*  **RSS Client:** [Thunderbird](https://wiki.archlinux.org/title/Thunderbird)
 * **Notifications:** [Dunst](https://wiki.archlinux.org/title/Dunst)
