@@ -1,13 +1,9 @@
 # dotfiles - X server
-## Pliki konfiguracyjne dla Linuxa używającego X server i i3wm<br>
-<br>
-Dracula theme<br>
-<br>
+## Pliki konfiguracyjne dla Linuxa używającego X server i i3wm
 ![Zrzut ekrenu](https://raw.githubusercontent.com/typsz/dotfiles/main/Dracula_theme.png)
-<br>
 [Motyw kolorystyczny](https://draculatheme.com/), [(github)](https://github.com/dracula/dracula-theme)<br>
 [Tapeta](https://draculatheme.com/wallpaper)
-
+<br>
 ### Programy
 * **WM:** [i3](https://wiki.archlinux.org/title/I3)
 	* **Bar:** [i3status](https://wiki.archlinux.org/title/I3#i3status)
@@ -33,6 +29,7 @@ Dracula theme<br>
 * **Video editor:** [Kdenlive](https://archlinux.org/packages/extra/x86_64/kdenlive/) (do przetestowania)
 * **3D editor:** [Blender](https://wiki.archlinux.org/title/Blender)
 
-### Fonts
+<br>
+### Czcionki
 * [DejaVu](https://en.wikipedia.org/wiki/DejaVu_fonts) - [ttf-dejavu](https://archlinux.org/packages/extra/any/ttf-dejavu/)
 * [FontAwesome](https://fontawesome.com/) - [ttf-font-awesome](https://archlinux.org/packages/community/any/ttf-font-awesome/)
