@@ -1,5 +1,5 @@
 # dotfiles - X server
-Pliki konfiguracyjne dla Linuxa używającego X server i i3wm
+Pliki konfiguracyjne dla Linuxa używającego X server i i3wm<br>
 Dracula theme<br>
 <br>
 ![Zrzut ekrenu](https://raw.githubusercontent.com/typsz/dotfiles/main/Dracula_theme.png)
