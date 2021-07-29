@@ -29,8 +29,15 @@
 * **Vector image editor:** [Inkscape](https://wiki.archlinux.org/title/Inkscape)
 * **Video editor:** [Kdenlive](https://archlinux.org/packages/extra/x86_64/kdenlive/) (do przetestowania)
 * **3D editor:** [Blender](https://wiki.archlinux.org/title/Blender)
+---
+* **Screenshot:** [Flameshot](https://wiki.archlinux.org/title/Flameshot)
 
 &nbsp;
 ### Czcionki
 * [DejaVu](https://en.wikipedia.org/wiki/DejaVu_fonts) - [ttf-dejavu](https://archlinux.org/packages/extra/any/ttf-dejavu/)
 * [FontAwesome](https://fontawesome.com/) - [ttf-font-awesome](https://archlinux.org/packages/community/any/ttf-font-awesome/)
+
+&nbsp;
+### Narzędzia
+* **GTK theme:** [lxappearance](https://archlinux.org/packages/community/x86_64/lxappearance-gtk3/)
+* **Tapeta:** [nitrogen](https://wiki.archlinux.org/title/Nitrogen)

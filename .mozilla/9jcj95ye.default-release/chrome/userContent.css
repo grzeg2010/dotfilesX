@@ -1,0 +1,8 @@
+/* --- New Tab (about:newtab) --- */
+
+/* Search box */
+.search-inner-wrapper,
+.search-handoff-button { background-color: transparent !important; }
+
+/* Personalize button */
+.personalize-button { display: none !important; }
