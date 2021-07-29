@@ -21,7 +21,8 @@ Dracula theme<br>
 *  **Mail Client:** [Thunderbird](https://wiki.archlinux.org/title/Thunderbird)
 	*  **RSS Client:** [Thunderbird](https://wiki.archlinux.org/title/Thunderbird)
 * **Notifications:** [Dunst](https://wiki.archlinux.org/title/Dunst)
-
+* **Image viewer:** [Nomacs](https://archlinux.org/packages/community/x86_64/nomacs/)
+* **Video player:** [VLC](https://wiki.archlinux.org/title/Vlc)
 
 ### Fonts
 * [DejaVu](https://en.wikipedia.org/wiki/DejaVu_fonts) - [ttf-dejavu](https://archlinux.org/packages/extra/any/ttf-dejavu/)
