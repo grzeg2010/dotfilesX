@@ -1,3 +1,7 @@
+> [!NOTE]
+> This repository is archived.
+> Reasons: switching to Wayland, switching to DE
+
 # dotfiles - X server
 ## Pliki konfiguracyjne dla Linuxa używającego X server i i3wm
 ![Zrzut ekrenu](https://raw.githubusercontent.com/typsz/dotfilesX/main/Dracula_theme.png)
